@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+}
+
+.texto {
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-padrao{
+    background-color: #F5F5F5;
+}
+
+.paragrafo-destacado{
+    background-color: #F0CCE2;
+}
